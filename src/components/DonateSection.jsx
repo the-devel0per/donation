@@ -38,7 +38,7 @@ export default function DonateSection() {
             >
               {/* Replace this img src with your actual QR code image */}
               <img
-                src="src/assets/HHIwI_7bYAAbMcV.png"
+                src="https://res.cloudinary.com/dmdnowrnc/image/upload/v1777901081/Donation/HHIwI_7bYAAbMcV_zp9nd3.png"
                 alt="Donation QR Code"
                 className="w-full h-full object-contain rounded-xl"
                 onError={e => {
