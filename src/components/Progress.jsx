@@ -31,7 +31,7 @@ function Counter({ target, inView }) {
 export default function Progress() {
   const [ref, inView] = useInView()
   const goal = 10000
-  const raised = 15
+  const raised = 184
   const pct = Math.round((raised / goal) * 100)
 
   return (
